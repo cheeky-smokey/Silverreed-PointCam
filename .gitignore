@@ -1,0 +1,17 @@
+# Blender backup/autosave
+*.blend1
+*.blend2
+*.blend@
+*.blend~
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Exported prototypes
+*.stl
+*.3mf
